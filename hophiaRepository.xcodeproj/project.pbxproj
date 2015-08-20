@@ -12,6 +12,7 @@
 		FBFB0B9F1B85B361000061B9 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FBFB0B9E1B85B361000061B9 /* Images.xcassets */; };
 		FBFB0BA21B85B361000061B9 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = FBFB0BA01B85B361000061B9 /* LaunchScreen.xib */; };
 		FBFB0BAE1B85B361000061B9 /* hophiaRepositoryTests.m in Sources */ = {isa = PBXBuildFile; fileRef = FBFB0BAD1B85B361000061B9 /* hophiaRepositoryTests.m */; };
+		FBFB0BBC1B85BF2F000061B9 /* HophiaTabBarController.m in Sources */ = {isa = PBXBuildFile; fileRef = FBFB0BBB1B85BF2F000061B9 /* HophiaTabBarController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -35,6 +36,8 @@
 		FBFB0BA71B85B361000061B9 /* hophiaRepositoryTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = hophiaRepositoryTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		FBFB0BAC1B85B361000061B9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		FBFB0BAD1B85B361000061B9 /* hophiaRepositoryTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = hophiaRepositoryTests.m; sourceTree = "<group>"; };
+		FBFB0BBA1B85BF2F000061B9 /* HophiaTabBarController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HophiaTabBarController.h; sourceTree = "<group>"; };
+		FBFB0BBB1B85BF2F000061B9 /* HophiaTabBarController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HophiaTabBarController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -78,6 +81,8 @@
 			children = (
 				FBFB0B9B1B85B361000061B9 /* AppDelegate.h */,
 				FBFB0B9C1B85B361000061B9 /* AppDelegate.m */,
+				FBFB0BBA1B85BF2F000061B9 /* HophiaTabBarController.h */,
+				FBFB0BBB1B85BF2F000061B9 /* HophiaTabBarController.m */,
 				FBFB0B9E1B85B361000061B9 /* Images.xcassets */,
 				FBFB0BA01B85B361000061B9 /* LaunchScreen.xib */,
 				FBFB0B971B85B361000061B9 /* Supporting Files */,
@@ -212,6 +217,7 @@
 			files = (
 				FBFB0B9D1B85B361000061B9 /* AppDelegate.m in Sources */,
 				FBFB0B9A1B85B361000061B9 /* main.m in Sources */,
+				FBFB0BBC1B85BF2F000061B9 /* HophiaTabBarController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -400,6 +406,7 @@
 				FBFB0BB31B85B361000061B9 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		FBFB0BB41B85B361000061B9 /* Build configuration list for PBXNativeTarget "hophiaRepositoryTests" */ = {
 			isa = XCConfigurationList;
@@ -408,6 +415,7 @@
 				FBFB0BB61B85B361000061B9 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

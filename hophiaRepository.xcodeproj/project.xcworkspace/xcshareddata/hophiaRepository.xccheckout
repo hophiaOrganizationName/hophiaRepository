@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>A1E2B59B-1F86-4DD8-9EA2-A0FC84240523</string>
+	<key>IDESourceControlProjectName</key>
+	<string>hophiaRepository</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>C1F51F3520CEBCC173DEC5415A962CCFDFC19D3F</key>
+		<string>https://github.com/hophiaOrganizationName/hophiaRepository.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>hophiaRepository.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>C1F51F3520CEBCC173DEC5415A962CCFDFC19D3F</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/hophiaOrganizationName/hophiaRepository.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>C1F51F3520CEBCC173DEC5415A962CCFDFC19D3F</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>C1F51F3520CEBCC173DEC5415A962CCFDFC19D3F</string>
+			<key>IDESourceControlWCCName</key>
+			<string>hophiaRepository</string>
+		</dict>
+	</array>
+</dict>
+</plist>
